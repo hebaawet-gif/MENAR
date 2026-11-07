@@ -1,4 +1,4 @@
-
+instance_type: mac_mini_m2
 workflows:
   menar_android:
     name: MENAR Android Release
